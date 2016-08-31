@@ -1,0 +1,12 @@
+com\gameservice\core\ConnectFourGame.class
+com\gameservice\utils\ObjectSerializer.class
+com\gameservice\data\MoveRecord.class
+com\gameservice\state\GameStatus.class
+com\gameservice\state\StatusCodes.class
+com\gameservice\core\ConnectFourBoard$GameToken.class
+com\gameservice\data\RedisStore.class
+com\gameservice\core\ConnectFourBoard.class
+com\gameservice\state\Status.class
+com\gameservice\core\ConnectFourService.class
+com\gameservice\data\GameStore.class
+com\gameservice\state\ErrorStatus.class
